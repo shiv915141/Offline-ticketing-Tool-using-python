@@ -59,7 +59,7 @@ No Python installation is required.
 If you prefer to run the project as a Python script:
 
 # Clone or download the repository
-git clone <your-repo-link>
+git clone <(https://github.com/shiv915141/Offline-ticketing-Tool-using-python)>
 cd TicketSystem
 
 # Install dependencies
@@ -72,7 +72,6 @@ python ticket_system.py
 
 📂 Project Files
 
-ticket_system.py → Main application script
 
 tickets.csv → Data file storing ticket information
 
